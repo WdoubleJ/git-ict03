@@ -73,4 +73,6 @@ asyncCall();
  > remote repository의 branch name 이다.
 
  ## origin
- > remote repository 이다...
+ > remote repository 이다.
+
+ ## docker run <options>
